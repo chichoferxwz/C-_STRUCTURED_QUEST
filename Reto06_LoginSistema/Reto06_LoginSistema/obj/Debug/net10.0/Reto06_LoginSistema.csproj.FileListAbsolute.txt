@@ -1,0 +1,14 @@
+C:\Users\steve\OneDrive\Escritorio\C-_STRUCTURED_QUEST\Reto06_LoginSistema\Reto06_LoginSistema\bin\Debug\net10.0\Reto06_LoginSistema.exe
+C:\Users\steve\OneDrive\Escritorio\C-_STRUCTURED_QUEST\Reto06_LoginSistema\Reto06_LoginSistema\bin\Debug\net10.0\Reto06_LoginSistema.deps.json
+C:\Users\steve\OneDrive\Escritorio\C-_STRUCTURED_QUEST\Reto06_LoginSistema\Reto06_LoginSistema\bin\Debug\net10.0\Reto06_LoginSistema.runtimeconfig.json
+C:\Users\steve\OneDrive\Escritorio\C-_STRUCTURED_QUEST\Reto06_LoginSistema\Reto06_LoginSistema\bin\Debug\net10.0\Reto06_LoginSistema.dll
+C:\Users\steve\OneDrive\Escritorio\C-_STRUCTURED_QUEST\Reto06_LoginSistema\Reto06_LoginSistema\bin\Debug\net10.0\Reto06_LoginSistema.pdb
+C:\Users\steve\OneDrive\Escritorio\C-_STRUCTURED_QUEST\Reto06_LoginSistema\Reto06_LoginSistema\obj\Debug\net10.0\Reto06_LoginSistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\OneDrive\Escritorio\C-_STRUCTURED_QUEST\Reto06_LoginSistema\Reto06_LoginSistema\obj\Debug\net10.0\Reto06_LoginSistema.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Escritorio\C-_STRUCTURED_QUEST\Reto06_LoginSistema\Reto06_LoginSistema\obj\Debug\net10.0\Reto06_LoginSistema.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Escritorio\C-_STRUCTURED_QUEST\Reto06_LoginSistema\Reto06_LoginSistema\obj\Debug\net10.0\Reto06_LoginSistema.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Escritorio\C-_STRUCTURED_QUEST\Reto06_LoginSistema\Reto06_LoginSistema\obj\Debug\net10.0\Reto06_LoginSistema.dll
+C:\Users\steve\OneDrive\Escritorio\C-_STRUCTURED_QUEST\Reto06_LoginSistema\Reto06_LoginSistema\obj\Debug\net10.0\refint\Reto06_LoginSistema.dll
+C:\Users\steve\OneDrive\Escritorio\C-_STRUCTURED_QUEST\Reto06_LoginSistema\Reto06_LoginSistema\obj\Debug\net10.0\Reto06_LoginSistema.pdb
+C:\Users\steve\OneDrive\Escritorio\C-_STRUCTURED_QUEST\Reto06_LoginSistema\Reto06_LoginSistema\obj\Debug\net10.0\Reto06_LoginSistema.genruntimeconfig.cache
+C:\Users\steve\OneDrive\Escritorio\C-_STRUCTURED_QUEST\Reto06_LoginSistema\Reto06_LoginSistema\obj\Debug\net10.0\ref\Reto06_LoginSistema.dll
